@@ -17,6 +17,7 @@ Talking about POWER BI, POWER PLANT which includes: Power Automate, Power Apllic
 - Data Wrangling
 - Determine data analysis
 ## Tools Used
+---
 - Power Bi [download here](https://microsoft.com)
 - Python
 - Excel [Microsoft]
