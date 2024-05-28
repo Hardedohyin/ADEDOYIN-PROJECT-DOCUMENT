@@ -26,3 +26,4 @@ Talking about POWER BI, POWER PLANT which includes: Power Automate, Power Apllic
 Google Query Sheet
 SELECT * FROM TABLE 1 WHERE CONDITION = MET
 ```
+![](frequency-wave-7776034_1280.jpeg)
