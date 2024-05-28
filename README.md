@@ -15,6 +15,6 @@ Collect Data
 Data Wrangling
 Determine data analysis
 ## Tools Used
-Power Bi [Microsoft]
+Power Bi [dowwnload here](https://microsoft.com)
 Python
 Excel [Microsoft]
