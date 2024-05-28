@@ -13,3 +13,8 @@ Survey
 Define Questions and Goals
 Collect Data
 Data Wrangling
+Determine data analysis
+## Tools Used
+Power Bi [Microsoft]
+Python
+Excel [Microsoft]
