@@ -26,7 +26,7 @@ Talking about POWER BI, POWER PLANT which includes: Power Automate, Power Apllic
 Google Query Sheet
 SELECT * FROM TABLE 1 WHERE CONDITION = MET
 ```
-![](Data-graph234.png)
+![](Data-usage185.jpg)
 
 ## Data Result
 | Name | Gender | Age | Attrbute |
