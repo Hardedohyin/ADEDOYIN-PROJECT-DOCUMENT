@@ -27,6 +27,7 @@ Google Query Sheet
 SELECT * FROM TABLE 1 WHERE CONDITION = MET
 ```
 ![](Data-graph234.png)
+
 ## Data Result
 | Name | Gender | Age | Attrbute |
 |------|--------|-----|---------|
