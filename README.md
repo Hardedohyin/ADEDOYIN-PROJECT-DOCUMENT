@@ -6,10 +6,10 @@ Talking about POWER BI, POWER PLANT which includes: Power Automate, Power Apllic
 
 Unstructured and Structured Data
 ## Data Sources
-**Interview**
-**Questionnaire**
-**Polls**
-**Survey**
+- **Interview**
+- **Questionnaire**
+- **Polls**
+- **Survey**
 ## Steps in Analysing Data
 Define Questions and Goals
 Collect Data
