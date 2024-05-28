@@ -21,3 +21,8 @@ Talking about POWER BI, POWER PLANT which includes: Power Automate, Power Apllic
 - Power Bi [download here](https://microsoft.com)
 - Python
 - Excel [Microsoft]
+## SQL QUERY
+```
+Google Query Sheet
+SELECT * FROM TABLE 1 WHERE CONDITION = MET
+```
